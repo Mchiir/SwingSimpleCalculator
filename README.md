@@ -5,11 +5,11 @@
 
 ⚙️ Technologies Used
 
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24"> Java Swing - For building the GUI components.
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="24"> Java Swing - For building the GUI components.
 
 🐛 Reporting Issues
 
-    mugishachrispin590@gmail.com.
+mugishachrispin590@gmail.com.
 
 <p align="center"> Happy coding! 😊 <br><br> <img src="https://img.shields.io/badge/-Java%20Swing-007396?logo=java&style=for-the-badge"> </p>
 
